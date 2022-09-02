@@ -1,0 +1,17 @@
+
+#include <stdio.h>
+#include <conio.h>
+int a,b;
+int main(){
+
+printf("1.sayiyi gir:\t");
+scanf("%d",&a);
+
+printf("2.sayiyi gir:\t");
+scanf("%d",&b);
+
+printf("sonucunuz=%d",a+b);
+
+
+return 0;
+}
